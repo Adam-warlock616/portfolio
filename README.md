@@ -9,7 +9,7 @@ A cutting-edge, interactive portfolio showcasing expertise in Flutter, Python, a
 ## ✨ Live Demo
 
 **🌐 Live Website:** [vaisak.netlify.app](https://vaisak.netlify.app)  
-**💻 GitHub Pages:** [github.com/Adam-warlock616/vaisak-portfolio](https://github.com/Adam-warlock616/vaisak-portfolio)  
+**💻 GitHub Pages:** [github.com/Adam-warlock616/vaisak-portfolio](https://adam-warlock616.github.io/portfolio/)  
 **📱 Mobile Optimized:** Fully responsive design
 
 ## 🎯 Features
